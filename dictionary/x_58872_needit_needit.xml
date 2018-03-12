@@ -19,7 +19,8 @@
                 <element label="Facilities 2" sequence="3" value="facilities2"/>
                 <element label="Legal 1" sequence="4" value="legal1"/>
                 <element label="Legal 2" sequence="5" value="legal2"/>
-                <element label="Other" sequence="6" value="other"/>
+                <element label="Sum" sequence="6" value="sum"/>
+                <element label="Other" sequence="7" value="other"/>
             </choice>
         </element>
         <element label="When needed" mandatory="true" max_length="40" name="u_when_needed" type="glide_date_time"/>
